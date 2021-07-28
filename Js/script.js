@@ -11,6 +11,6 @@ document.getElementById('colore').innerHTML += colore;
 
 const bool_class = 40
 
-document.getElementById('pwd-creata').innerHTML += nome += cognome += colore += bool_class;
-
 //4- stampare sulla schermo: nome, cognome, colore + 40
+
+document.getElementById('pwd-creata').innerHTML += nome += cognome += colore += bool_class;
